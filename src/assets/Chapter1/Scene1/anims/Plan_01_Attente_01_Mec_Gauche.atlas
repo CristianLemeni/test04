@@ -1,0 +1,27 @@
+
+Plan_01_Attente_01_Mec_Gauche.png
+size: 441,335
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Plan-01_Attente_01_Mec_Gauche/Mec_Gauche_Corps
+  rotate: true
+  xy: 2, 2
+  size: 193, 354
+  orig: 193, 354
+  offset: 0, 0
+  index: -1
+Plan-01_Attente_01_Mec_Gauche/Mec_Gauche_Jambes
+  rotate: true
+  xy: 2, 220
+  size: 113, 256
+  orig: 113, 256
+  offset: 0, 0
+  index: -1
+Plan-01_Attente_01_Mec_Gauche/Mec_Gauche_Tete
+  rotate: true
+  xy: 260, 197
+  size: 136, 179
+  orig: 136, 179
+  offset: 0, 0
+  index: -1

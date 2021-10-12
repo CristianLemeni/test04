@@ -1,0 +1,20 @@
+
+ch3p7-migrant-right-fixed.png
+size: 458,277
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Plan_07_Migrants_2eme plan_Droit/Migrant_Droit_Corps
+  rotate: false
+  xy: 2, 2
+  size: 312, 273
+  orig: 312, 275
+  offset: 0, 0
+  index: -1
+Plan_07_Migrants_2eme plan_Droit/Migrant_droit_tete
+  rotate: false
+  xy: 316, 98
+  size: 140, 177
+  orig: 140, 177
+  offset: 0, 0
+  index: -1

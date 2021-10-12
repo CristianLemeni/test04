@@ -1,0 +1,20 @@
+
+ch3p9-migrant1-fixed.png
+size: 263,67
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Plan_09_Migrant_01/Migrant_01_tete
+  rotate: false
+  xy: 206, 6
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+Plan_09_Migrant_01/Migrant_1_Corps
+  rotate: true
+  xy: 2, 2
+  size: 63, 202
+  orig: 63, 202
+  offset: 0, 0
+  index: -1

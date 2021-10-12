@@ -1,0 +1,167 @@
+{
+	"textures": [
+		{
+			"image": "scene4.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1743,
+				"h": 1784
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Feuille.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1898,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 1007,
+						"y": 1,
+						"w": 889,
+						"h": 771
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 889,
+						"h": 771
+					}
+				},
+				{
+					"filename": "Sac.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1404,
+						"h": 597
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1404,
+						"h": 597
+					},
+					"frame": {
+						"x": 1,
+						"y": 774,
+						"w": 1404,
+						"h": 597
+					}
+				},
+				{
+					"filename": "Livre.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 850,
+						"h": 607
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 850,
+						"h": 607
+					},
+					"frame": {
+						"x": 892,
+						"y": 1,
+						"w": 850,
+						"h": 607
+					}
+				},
+				{
+					"filename": "coin1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 220,
+						"h": 137
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 220,
+						"h": 137
+					},
+					"frame": {
+						"x": 892,
+						"y": 610,
+						"w": 220,
+						"h": 137
+					}
+				},
+				{
+					"filename": "Pièce 4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 74
+					},
+					"frame": {
+						"x": 1114,
+						"y": 610,
+						"w": 162,
+						"h": 74
+					}
+				},
+				{
+					"filename": "cash-bundle1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 867,
+						"h": 410
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 867,
+						"h": 410
+					},
+					"frame": {
+						"x": 1,
+						"y": 1373,
+						"w": 867,
+						"h": 410
+					}
+				},
+				{
+					"filename": "cash-bundle2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 866,
+						"h": 407
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 866,
+						"h": 407
+					},
+					"frame": {
+						"x": 870,
+						"y": 1373,
+						"w": 866,
+						"h": 407
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:84667cd2ce147863702e2af06b0039a9:dd33d56591baaeea9e042ec7fca9919f:0f129071c2e3f83a7ab635169018e864$"
+	}
+}

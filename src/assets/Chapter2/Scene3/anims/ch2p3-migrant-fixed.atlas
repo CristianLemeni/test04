@@ -1,0 +1,27 @@
+
+ch2p3-migrant-fixed.png
+size: 152,298
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Migrant/Migrant_Corps
+  rotate: false
+  xy: 2, 2
+  size: 87, 141
+  orig: 87, 141
+  offset: 0, 0
+  index: -1
+Migrant/Migrant_Jambes
+  rotate: true
+  xy: 2, 145
+  size: 151, 148
+  orig: 151, 148
+  offset: 0, 0
+  index: -1
+Migrant/Migrant_Tete
+  rotate: false
+  xy: 91, 58
+  size: 57, 85
+  orig: 57, 86
+  offset: 0, 1
+  index: -1

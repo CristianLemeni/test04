@@ -1,0 +1,230 @@
+{
+	"textures": [
+		{
+			"image": "scene1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2024,
+				"h": 1697
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Arbre Gauche.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 971,
+						"h": 938
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 971,
+						"h": 938
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 971,
+						"h": 938
+					}
+				},
+				{
+					"filename": "Arbre droite.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 674,
+						"h": 903
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 674,
+						"h": 903
+					},
+					"frame": {
+						"x": 974,
+						"y": 1,
+						"w": 674,
+						"h": 903
+					}
+				},
+				{
+					"filename": "Garçon Droite.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 268,
+						"h": 874
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 268,
+						"h": 874
+					},
+					"frame": {
+						"x": 1650,
+						"y": 1,
+						"w": 268,
+						"h": 874
+					}
+				},
+				{
+					"filename": "Lampe-01.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 572,
+						"h": 564
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 572,
+						"h": 564
+					},
+					"frame": {
+						"x": 1,
+						"y": 941,
+						"w": 572,
+						"h": 564
+					}
+				},
+				{
+					"filename": "Couple qui s&#39;embrasse.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 279,
+						"h": 616
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 279,
+						"h": 616
+					},
+					"frame": {
+						"x": 575,
+						"y": 941,
+						"w": 279,
+						"h": 616
+					}
+				},
+				{
+					"filename": "Lune.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 386,
+						"h": 386
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 386,
+						"h": 386
+					},
+					"frame": {
+						"x": 856,
+						"y": 941,
+						"w": 386,
+						"h": 386
+					}
+				},
+				{
+					"filename": "Garçon qui parle droite.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 315,
+						"h": 788
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 315,
+						"h": 788
+					},
+					"frame": {
+						"x": 1244,
+						"y": 906,
+						"w": 315,
+						"h": 788
+					}
+				},
+				{
+					"filename": "Garçon qui parle Gauche.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 198,
+						"h": 773
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 198,
+						"h": 773
+					},
+					"frame": {
+						"x": 1561,
+						"y": 906,
+						"w": 198,
+						"h": 773
+					}
+				},
+				{
+					"filename": "Garçon Gauche.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 262,
+						"h": 819
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 262,
+						"h": 819
+					},
+					"frame": {
+						"x": 1761,
+						"y": 877,
+						"w": 262,
+						"h": 819
+					}
+				},
+				{
+					"filename": "Etoiles.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 17,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 15,
+						"h": 14
+					},
+					"frame": {
+						"x": 1,
+						"y": 1507,
+						"w": 15,
+						"h": 14
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:0b5dc604faf1f38e80eca52a60efe5a4:45c4d1c3b84661a0b0bb521db86b37a8:ec0eeeed5ced6e03397d7668d179ebf6$"
+	}
+}

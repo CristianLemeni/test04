@@ -1,0 +1,188 @@
+{
+	"textures": [
+		{
+			"image": "scene2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1190,
+				"h": 1959
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "plate.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 886,
+						"h": 887
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 886,
+						"h": 887
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 886,
+						"h": 887
+					}
+				},
+				{
+					"filename": "napkin.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 587,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 587,
+						"h": 791
+					},
+					"frame": {
+						"x": 1,
+						"y": 890,
+						"w": 587,
+						"h": 791
+					}
+				},
+				{
+					"filename": "salad.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 291,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 291,
+						"h": 258
+					},
+					"frame": {
+						"x": 1,
+						"y": 1683,
+						"w": 291,
+						"h": 258
+					}
+				},
+				{
+					"filename": "sauce.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 272,
+						"h": 275
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 272,
+						"h": 275
+					},
+					"frame": {
+						"x": 294,
+						"y": 1683,
+						"w": 272,
+						"h": 275
+					}
+				},
+				{
+					"filename": "food.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 445,
+						"h": 463
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 445,
+						"h": 463
+					},
+					"frame": {
+						"x": 590,
+						"y": 890,
+						"w": 445,
+						"h": 463
+					}
+				},
+				{
+					"filename": "knife.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 201,
+						"h": 822
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 201,
+						"h": 822
+					},
+					"frame": {
+						"x": 889,
+						"y": 1,
+						"w": 201,
+						"h": 822
+					}
+				},
+				{
+					"filename": "glass.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 371,
+						"h": 376
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 371,
+						"h": 376
+					},
+					"frame": {
+						"x": 590,
+						"y": 1355,
+						"w": 371,
+						"h": 376
+					}
+				},
+				{
+					"filename": "fork.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 152,
+						"h": 818
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 152,
+						"h": 818
+					},
+					"frame": {
+						"x": 1037,
+						"y": 825,
+						"w": 152,
+						"h": 818
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:06cd365bc3aac325cec8ad9dfec5bed2:1730a947a0e84812593103635ffa9b75:5a2ec391a658c4f7218d324a6a7e12ee$"
+	}
+}

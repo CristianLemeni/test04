@@ -1,0 +1,27 @@
+
+ch1p10-girl.png
+size: 779,326
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Plan_10_Amis_Fille/Fille-Tete
+  rotate: false
+  xy: 567, 151
+  size: 163, 173
+  orig: 163, 173
+  offset: 0, 0
+  index: -1
+Plan_10_Amis_Fille/Fille_Bras
+  rotate: true
+  xy: 567, 50
+  size: 99, 210
+  orig: 99, 210
+  offset: 0, 0
+  index: -1
+Plan_10_Amis_Fille/Fille_Corps
+  rotate: true
+  xy: 2, 2
+  size: 322, 563
+  orig: 322, 563
+  offset: 0, 0
+  index: -1

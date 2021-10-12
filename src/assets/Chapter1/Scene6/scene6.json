@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "scene6.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 435,
+				"h": 614
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Soleil.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 415,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 415,
+						"h": 415
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 415,
+						"h": 415
+					}
+				},
+				{
+					"filename": "bk.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 612
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 612
+					},
+					"frame": {
+						"x": 418,
+						"y": 1,
+						"w": 16,
+						"h": 612
+					}
+				},
+				{
+					"filename": "Avion (1).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 321,
+						"h": 84
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 321,
+						"h": 84
+					},
+					"frame": {
+						"x": 1,
+						"y": 418,
+						"w": 321,
+						"h": 84
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:d52d258fbe1bbcf3bd9cd6f0ad7ca73e:f7f472b30339ed8f4dc751fea02dacdd:2c62b3d12669b440eb8d976877a1c761$"
+	}
+}

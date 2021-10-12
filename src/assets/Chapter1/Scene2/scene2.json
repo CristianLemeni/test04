@@ -1,0 +1,146 @@
+{
+	"textures": [
+		{
+			"image": "scene2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1250,
+				"h": 1453
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "arbre 5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 674,
+						"h": 965
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 674,
+						"h": 965
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 674,
+						"h": 965
+					}
+				},
+				{
+					"filename": "Fourgon.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1026,
+						"h": 484
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1026,
+						"h": 484
+					},
+					"frame": {
+						"x": 1,
+						"y": 968,
+						"w": 1026,
+						"h": 484
+					}
+				},
+				{
+					"filename": "Lampe-01.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 572,
+						"h": 564
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 572,
+						"h": 564
+					},
+					"frame": {
+						"x": 677,
+						"y": 1,
+						"w": 572,
+						"h": 564
+					}
+				},
+				{
+					"filename": "Perso-01.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 132,
+						"h": 408
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 132,
+						"h": 408
+					},
+					"frame": {
+						"x": 1029,
+						"y": 567,
+						"w": 132,
+						"h": 408
+					}
+				},
+				{
+					"filename": "Perso-02 copie.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 393
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 393
+					},
+					"frame": {
+						"x": 677,
+						"y": 567,
+						"w": 116,
+						"h": 393
+					}
+				},
+				{
+					"filename": "Etoiles.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 1011,
+						"y": 153,
+						"w": 15,
+						"h": 14
+					},
+					"frame": {
+						"x": 795,
+						"y": 567,
+						"w": 15,
+						"h": 14
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:9c077dca2fb3587e3de96358bb689c61:e767e12ec90409c07f92ed2f62fdd0d4:5a2ec391a658c4f7218d324a6a7e12ee$"
+	}
+}

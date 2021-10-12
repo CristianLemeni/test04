@@ -1,0 +1,27 @@
+
+ch1p10-teacher-fixed.png
+size: 1003,285
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Plan_10_Prof/Prof_Bras
+  rotate: true
+  xy: 687, 24
+  size: 259, 160
+  orig: 259, 160
+  offset: 0, 0
+  index: -1
+Plan_10_Prof/Prof_Corps
+  rotate: true
+  xy: 2, 2
+  size: 281, 683
+  orig: 281, 683
+  offset: 0, 0
+  index: -1
+Plan_10_Prof/Prof_Tete
+  rotate: false
+  xy: 849, 119
+  size: 152, 164
+  orig: 152, 164
+  offset: 0, 0
+  index: -1

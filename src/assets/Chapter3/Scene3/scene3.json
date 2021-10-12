@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "scene3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1922,
+				"h": 656
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "cloud-orange.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 418,
+						"h": 73
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 418,
+						"h": 73
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 418,
+						"h": 73
+					}
+				},
+				{
+					"filename": "farmer.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 127,
+						"h": 268
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 127,
+						"h": 268
+					},
+					"frame": {
+						"x": 421,
+						"y": 1,
+						"w": 127,
+						"h": 268
+					}
+				},
+				{
+					"filename": "sun.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 282,
+						"h": 281
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 282,
+						"h": 281
+					},
+					"frame": {
+						"x": 550,
+						"y": 1,
+						"w": 282,
+						"h": 281
+					}
+				},
+				{
+					"filename": "soil-dry.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1920,
+						"h": 371
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1920,
+						"h": 371
+					},
+					"frame": {
+						"x": 1,
+						"y": 284,
+						"w": 1920,
+						"h": 371
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b3bf00ad8a554e3682843a7370124814:9a58f030798b7c052e1909cb1461b43b:92564d80fd3ab728c15d874c887cf95d$"
+	}
+}

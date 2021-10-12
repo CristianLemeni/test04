@@ -1,0 +1,167 @@
+{
+	"textures": [
+		{
+			"image": "scene7.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1337,
+				"h": 216
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "mb2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 191,
+						"h": 131
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 5,
+						"w": 59,
+						"h": 120
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 59,
+						"h": 120
+					}
+				},
+				{
+					"filename": "mf2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 191,
+						"h": 131
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 5,
+						"w": 59,
+						"h": 120
+					},
+					"frame": {
+						"x": 62,
+						"y": 1,
+						"w": 59,
+						"h": 120
+					}
+				},
+				{
+					"filename": "mb3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 191,
+						"h": 131
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 0,
+						"w": 64,
+						"h": 127
+					},
+					"frame": {
+						"x": 123,
+						"y": 1,
+						"w": 64,
+						"h": 127
+					}
+				},
+				{
+					"filename": "mf3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 191,
+						"h": 131
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 0,
+						"w": 64,
+						"h": 127
+					},
+					"frame": {
+						"x": 189,
+						"y": 1,
+						"w": 64,
+						"h": 127
+					}
+				},
+				{
+					"filename": "mb1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 191,
+						"h": 131
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 52,
+						"h": 131
+					},
+					"frame": {
+						"x": 255,
+						"y": 1,
+						"w": 52,
+						"h": 131
+					}
+				},
+				{
+					"filename": "mf1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 191,
+						"h": 131
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 52,
+						"h": 131
+					},
+					"frame": {
+						"x": 309,
+						"y": 1,
+						"w": 52,
+						"h": 131
+					}
+				},
+				{
+					"filename": "migrants-boat.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 973,
+						"h": 214
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 973,
+						"h": 214
+					},
+					"frame": {
+						"x": 363,
+						"y": 1,
+						"w": 973,
+						"h": 214
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:ff2ddfc3be376569f7cccce18f2ed238:14e98ed6869c3bc19c0c13d82a0e44ab:8a2a099e134f9a46b4b9081a9841ca7a$"
+	}
+}

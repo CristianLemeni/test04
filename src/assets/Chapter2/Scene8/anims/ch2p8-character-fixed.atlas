@@ -1,0 +1,27 @@
+
+ch2p8-character-fixed.png
+size: 360,246
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Plan_08_Migrant/Migrant_Corps
+  rotate: false
+  xy: 228, 72
+  size: 130, 172
+  orig: 130, 173
+  offset: 0, 0
+  index: -1
+Plan_08_Migrant/Migrant_Jambes
+  rotate: false
+  xy: 2, 2
+  size: 224, 242
+  orig: 224, 242
+  offset: 0, 0
+  index: -1
+Plan_08_Migrant/Migrant_tete
+  rotate: true
+  xy: 228, 11
+  size: 59, 82
+  orig: 59, 83
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,20 @@
+
+ch3p7-migrant-middle-fixed.png
+size: 820,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Plan_07_Migrants_1er plan_Milieu/Migrant_Milieu_Corps
+  rotate: false
+  xy: 2, 2
+  size: 563, 300
+  orig: 563, 301
+  offset: 0, 0
+  index: -1
+Plan_07_Migrants_1er plan_Milieu/Migrant_Milieu_Tete
+  rotate: false
+  xy: 567, 45
+  size: 251, 257
+  orig: 251, 257
+  offset: 0, 0
+  index: -1

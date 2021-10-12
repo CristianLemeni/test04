@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "scene6.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1262,
+				"h": 1646
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "dry-land.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1260,
+						"h": 1078
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1260,
+						"h": 1077
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1260,
+						"h": 1077
+					}
+				},
+				{
+					"filename": "sea.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 915,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 915,
+						"h": 565
+					},
+					"frame": {
+						"x": 1,
+						"y": 1080,
+						"w": 915,
+						"h": 565
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b11834cb9be2f26f71a1ff018fcd4a6a:e0f44a1f9bf740e170d0370113f5019a:2c62b3d12669b440eb8d976877a1c761$"
+	}
+}

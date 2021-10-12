@@ -1,0 +1,27 @@
+
+ch1p7-character-fixed.png
+size: 465,471
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Plan_07_Attente/Perso_Corps
+  rotate: false
+  xy: 2, 2
+  size: 277, 467
+  orig: 277, 467
+  offset: 0, 0
+  index: -1
+Plan_07_Attente/Perso_Jambes
+  rotate: true
+  xy: 281, 5
+  size: 211, 171
+  orig: 212, 172
+  offset: 0, 0
+  index: -1
+Plan_07_Attente/Perso_Tete
+  rotate: false
+  xy: 281, 218
+  size: 182, 251
+  orig: 182, 251
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+ch3p7-foreman-fixed.png
+size: 962,186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Plan_07_COntremaitre/Contremaitre_Corps
+  rotate: true
+  xy: 549, 40
+  size: 144, 297
+  orig: 144, 299
+  offset: 0, 1
+  index: -1
+Plan_07_COntremaitre/Contremaitre_Jambes
+  rotate: true
+  xy: 2, 2
+  size: 182, 545
+  orig: 182, 545
+  offset: 0, 0
+  index: -1
+Plan_07_COntremaitre/Contremaitre_Tete
+  rotate: false
+  xy: 848, 19
+  size: 112, 165
+  orig: 112, 165
+  offset: 0, 0
+  index: -1

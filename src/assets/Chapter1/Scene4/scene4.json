@@ -1,0 +1,125 @@
+{
+	"textures": [
+		{
+			"image": "scene4.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1636,
+				"h": 963
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "paysage.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1436,
+						"h": 206
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1436,
+						"h": 206
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1436,
+						"h": 206
+					}
+				},
+				{
+					"filename": "batiment.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1178,
+						"h": 753
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1178,
+						"h": 753
+					},
+					"frame": {
+						"x": 1,
+						"y": 209,
+						"w": 1178,
+						"h": 753
+					}
+				},
+				{
+					"filename": "avion.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 454,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 454,
+						"h": 144
+					},
+					"frame": {
+						"x": 1181,
+						"y": 209,
+						"w": 454,
+						"h": 144
+					}
+				},
+				{
+					"filename": "upperSky.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 3840,
+						"h": 1407
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 47,
+						"h": 47
+					},
+					"frame": {
+						"x": 1439,
+						"y": 1,
+						"w": 47,
+						"h": 47
+					}
+				},
+				{
+					"filename": "Etoiles.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 1011,
+						"y": 153,
+						"w": 15,
+						"h": 14
+					},
+					"frame": {
+						"x": 1488,
+						"y": 1,
+						"w": 15,
+						"h": 14
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:c6865a2552cf8e336012d7ea779678dd:bb4728ab1db500f913840726a5207f17:0f129071c2e3f83a7ab635169018e864$"
+	}
+}

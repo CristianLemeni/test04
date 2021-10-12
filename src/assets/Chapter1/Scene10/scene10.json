@@ -1,0 +1,230 @@
+{
+	"textures": [
+		{
+			"image": "scene10.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1640,
+				"h": 1647
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "amis.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 703,
+						"h": 798
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 703,
+						"h": 798
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 703,
+						"h": 798
+					}
+				},
+				{
+					"filename": "Prof.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 519,
+						"h": 845
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 519,
+						"h": 845
+					},
+					"frame": {
+						"x": 1,
+						"y": 801,
+						"w": 519,
+						"h": 845
+					}
+				},
+				{
+					"filename": "Office Bleue.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 638,
+						"h": 787
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 638,
+						"h": 787
+					},
+					"frame": {
+						"x": 706,
+						"y": 1,
+						"w": 638,
+						"h": 787
+					}
+				},
+				{
+					"filename": "Personnage.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 277,
+						"h": 1056
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 277,
+						"h": 1056
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 277,
+						"h": 1056
+					}
+				},
+				{
+					"filename": "Fenêtre (1).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 410,
+						"h": 593
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 410,
+						"h": 593
+					},
+					"frame": {
+						"x": 522,
+						"y": 801,
+						"w": 410,
+						"h": 593
+					}
+				},
+				{
+					"filename": "nuages (1).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 700,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 700,
+						"h": 160
+					},
+					"frame": {
+						"x": 522,
+						"y": 1396,
+						"w": 700,
+						"h": 160
+					}
+				},
+				{
+					"filename": "frame.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 236,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 236,
+						"h": 234
+					},
+					"frame": {
+						"x": 934,
+						"y": 790,
+						"w": 236,
+						"h": 234
+					}
+				},
+				{
+					"filename": "Soleil.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 415,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 415,
+						"h": 415
+					},
+					"frame": {
+						"x": 1224,
+						"y": 1059,
+						"w": 415,
+						"h": 415
+					}
+				},
+				{
+					"filename": "minute-hand.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 13,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 13,
+						"h": 67
+					},
+					"frame": {
+						"x": 522,
+						"y": 1558,
+						"w": 13,
+						"h": 67
+					}
+				},
+				{
+					"filename": "hour-hand.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 13,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 13,
+						"h": 48
+					},
+					"frame": {
+						"x": 1625,
+						"y": 1,
+						"w": 13,
+						"h": 48
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:5618dbccae6eb4c1801ee4f0867ab38f:44887e1327ff80d587fe217b4e33ea5a:fa7c87c9e71c836dd203abdad3165bb7$"
+	}
+}

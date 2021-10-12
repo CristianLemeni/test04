@@ -1,0 +1,20 @@
+
+ch1p8-character-desk-fixed.png
+size: 313,257
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Perso_acceuil/Perso_Acceuil_Corps
+  rotate: true
+  xy: 2, 2
+  size: 253, 174
+  orig: 253, 174
+  offset: 0, 0
+  index: -1
+Perso_acceuil/Perso_Acceuil_Tete
+  rotate: false
+  xy: 178, 4
+  size: 133, 251
+  orig: 133, 251
+  offset: 0, 0
+  index: -1

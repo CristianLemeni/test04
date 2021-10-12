@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "scene8.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1384,
+				"h": 873
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Ciel.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1078
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 33,
+						"h": 29
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 33,
+						"h": 29
+					}
+				},
+				{
+					"filename": "Nuage 3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 217,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 217,
+						"h": 63
+					},
+					"frame": {
+						"x": 36,
+						"y": 1,
+						"w": 217,
+						"h": 63
+					}
+				},
+				{
+					"filename": "Nuage 1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 546,
+						"h": 154
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 546,
+						"h": 154
+					},
+					"frame": {
+						"x": 255,
+						"y": 1,
+						"w": 546,
+						"h": 154
+					}
+				},
+				{
+					"filename": "truck.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1382,
+						"h": 715
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1382,
+						"h": 715
+					},
+					"frame": {
+						"x": 1,
+						"y": 157,
+						"w": 1382,
+						"h": 715
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:91c1eea39c1c7de34d1cfb5f810ced25:2185657c8045626c4dcc68d239492391:a3017110dc814220854511549aae1b76$"
+	}
+}

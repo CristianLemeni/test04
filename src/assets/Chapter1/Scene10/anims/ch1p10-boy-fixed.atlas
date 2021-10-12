@@ -1,0 +1,27 @@
+
+ch1p10-boy-fixed.png
+size: 806,191
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Plan_10_Amis_Garcon/Garcon_Bras
+  rotate: true
+  xy: 572, 99
+  size: 90, 232
+  orig: 91, 232
+  offset: 0, 0
+  index: -1
+Plan_10_Amis_Garcon/Garcon_Corps
+  rotate: true
+  xy: 2, 9
+  size: 180, 568
+  orig: 180, 569
+  offset: 0, 0
+  index: -1
+Plan_10_Amis_Garcon/Garcon_Tete
+  rotate: true
+  xy: 572, 2
+  size: 95, 174
+  orig: 95, 174
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+ch1p3_character.png
+size: 465,302
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Plan_03_Attente/Mec_Corps
+  rotate: false
+  xy: 351, 2
+  size: 112, 298
+  orig: 112, 298
+  offset: 0, 0
+  index: -1
+Plan_03_Attente/Mec_Jambes
+  rotate: true
+  xy: 2, 175
+  size: 125, 347
+  orig: 125, 347
+  offset: 0, 0
+  index: -1
+Plan_03_Attente/Mec_Mains
+  rotate: false
+  xy: 2, 5
+  size: 183, 168
+  orig: 185, 168
+  offset: 0, 0
+  index: -1
+Plan_03_Attente/Mec_Tete
+  rotate: false
+  xy: 187, 30
+  size: 134, 143
+  orig: 134, 143
+  offset: 0, 0
+  index: -1
