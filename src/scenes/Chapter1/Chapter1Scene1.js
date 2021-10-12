@@ -19,13 +19,11 @@ export class Chapter1Scene1 extends BaseScene {
         this.load.spine('persRight2Chp1Sc1', path + animPath + 'Plan_01_Attente_02_Mec_Droite.json', [path + animPath + 'Plan_01_Attente_02_Mec_Droite.atlas'], true);
         this.load.spine('persLeft2Chp1Sc1', path + animPath + 'Plan_01_Attente_02_Mec_Gauche.json', [path + animPath + 'Plan_01_Attente_02_Mec_Gauche.atlas'], true);
         this.load.atlas('Chp1Sc1', path + 'scene1.png', path + 'scene1.json');
-        this.load.audio('ambienceChp1Sc1', [path + soundsPath + 'ch1_amb_nuit.mp3'])
     }
 
     create() {
         super.create()
 
-        this.playSound('ambienceChp1Sc1', 1, true)
         this.atlasTexture = this.textures.get('Chp1Sc1');
         this.frames = this.atlasTexture.getFrameNames();
 
