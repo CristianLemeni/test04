@@ -26,7 +26,11 @@ module.exports = {
       {
         test: /\.mp3$/,
         loader: 'file-loader'
-    }
+      },
+      {
+        test: /\.json$/,
+        loader: 'json-loader'
+      }
     ]
   },
   plugins: [
