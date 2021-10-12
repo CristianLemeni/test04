@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "scene8.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1922,
+				"h": 1528
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "04.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 490,
+						"h": 1067
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 490,
+						"h": 1067
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 490,
+						"h": 1067
+					}
+				},
+				{
+					"filename": "Barrière.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1920,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1920,
+						"h": 457
+					},
+					"frame": {
+						"x": 1,
+						"y": 1070,
+						"w": 1920,
+						"h": 457
+					}
+				},
+				{
+					"filename": "perso (2).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 445,
+						"h": 394
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 202,
+						"w": 211,
+						"h": 191
+					},
+					"frame": {
+						"x": 493,
+						"y": 1,
+						"w": 211,
+						"h": 191
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:6140401cc2109d641b210d8abb5a4c07:876206887ace1e4e494cee0f72b5f9d6:a3017110dc814220854511549aae1b76$"
+	}
+}

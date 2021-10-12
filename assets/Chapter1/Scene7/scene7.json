@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "scene7.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 640,
+				"h": 990
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Office Bleue.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 638,
+						"h": 787
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 638,
+						"h": 787
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 638,
+						"h": 787
+					}
+				},
+				{
+					"filename": "arm.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 278,
+						"h": 199
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 278,
+						"h": 199
+					},
+					"frame": {
+						"x": 1,
+						"y": 790,
+						"w": 278,
+						"h": 199
+					}
+				},
+				{
+					"filename": "paper.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 236,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 236,
+						"h": 99
+					},
+					"frame": {
+						"x": 281,
+						"y": 790,
+						"w": 236,
+						"h": 99
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:58e78818a03aefaba029380002f3e52d:95bb2f163f385cdccd9ecb928ac47ac9:8a2a099e134f9a46b4b9081a9841ca7a$"
+	}
+}

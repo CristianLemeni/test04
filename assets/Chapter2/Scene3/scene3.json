@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "scene3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1262,
+				"h": 1642
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "dry-land.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1260,
+						"h": 1078
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1260,
+						"h": 1077
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1260,
+						"h": 1077
+					}
+				},
+				{
+					"filename": "sea.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 915,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 915,
+						"h": 565
+					},
+					"frame": {
+						"x": 0,
+						"y": 1077,
+						"w": 915,
+						"h": 565
+					}
+				},
+				{
+					"filename": "tank.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 347,
+						"h": 182
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 347,
+						"h": 182
+					},
+					"frame": {
+						"x": 915,
+						"y": 1077,
+						"w": 347,
+						"h": 182
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:29bb189046c84fcf9c43b6fbc9d2facb:2a9da69afee25d06557a402f7a221ab8:92564d80fd3ab728c15d874c887cf95d$"
+	}
+}

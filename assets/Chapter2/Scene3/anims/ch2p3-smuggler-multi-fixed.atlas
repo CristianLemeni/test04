@@ -1,0 +1,41 @@
+
+ch2p3-smuggler-multi-fixed.png
+size: 543,243
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Passeur/Avant_Bras_Passeur
+  rotate: true
+  xy: 468, 54
+  size: 91, 34
+  orig: 91, 35
+  offset: 0, 1
+  index: -1
+Passeur/Bras_Passeur
+  rotate: false
+  xy: 468, 14
+  size: 73, 38
+  orig: 73, 39
+  offset: 0, 1
+  index: -1
+Passeur/Bulle_Dollar
+  rotate: true
+  xy: 297, 2
+  size: 239, 169
+  orig: 239, 169
+  offset: 0, 0
+  index: -1
+Passeur/Corps_Passeur
+  rotate: true
+  xy: 2, 3
+  size: 238, 293
+  orig: 238, 296
+  offset: 0, 0
+  index: -1
+Passeur/Tete_Passeur
+  rotate: false
+  xy: 468, 147
+  size: 58, 94
+  orig: 58, 94
+  offset: 0, 0
+  index: -1

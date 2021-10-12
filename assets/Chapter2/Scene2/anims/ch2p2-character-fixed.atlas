@@ -1,0 +1,20 @@
+
+ch2p2-character-fixed.png
+size: 702,383
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Perso_Plan_02/Calque_1
+  rotate: false
+  xy: 508, 129
+  size: 192, 252
+  orig: 192, 253
+  offset: 0, 1
+  index: -1
+Perso_Plan_02/Personnage
+  rotate: true
+  xy: 2, 2
+  size: 379, 504
+  orig: 379, 504
+  offset: 0, 0
+  index: -1

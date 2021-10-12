@@ -1,0 +1,20 @@
+
+ch2p7-migrants-fixed.png
+size: 978,404
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Plan_07_Migrants/Bateau_Migrants
+  rotate: false
+  xy: 2, 188
+  size: 974, 214
+  orig: 974, 215
+  offset: 0, 0
+  index: -1
+Plan_07_Migrants/Migrants
+  rotate: false
+  xy: 2, 2
+  size: 855, 184
+  orig: 855, 184
+  offset: 0, 0
+  index: -1

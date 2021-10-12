@@ -1,0 +1,27 @@
+
+ch3p9-smuggler-fixed.png
+size: 303,58
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Plan_09_Passeur/Passeur_Corps
+  rotate: true
+  xy: 158, 2
+  size: 54, 105
+  orig: 54, 105
+  offset: 0, 0
+  index: -1
+Plan_09_Passeur/Passeur_tete
+  rotate: false
+  xy: 265, 2
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+Plan_09_Passeur/passeur_Jambes
+  rotate: true
+  xy: 2, 3
+  size: 53, 154
+  orig: 53, 154
+  offset: 0, 0
+  index: -1

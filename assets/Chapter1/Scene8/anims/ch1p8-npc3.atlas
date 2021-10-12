@@ -1,0 +1,27 @@
+
+ch1p8-npc3.png
+size: 1236,335
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Perso_03/Perso_03_Bras_Feuille
+  rotate: false
+  xy: 991, 89
+  size: 243, 244
+  orig: 243, 244
+  offset: 0, 0
+  index: -1
+Perso_03/Perso_03_Corps
+  rotate: true
+  xy: 2, 2
+  size: 331, 728
+  orig: 331, 728
+  offset: 0, 0
+  index: -1
+Perso_03/Perso_03_Tete
+  rotate: false
+  xy: 732, 65
+  size: 257, 268
+  orig: 257, 268
+  offset: 0, 0
+  index: -1

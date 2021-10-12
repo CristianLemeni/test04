@@ -1,0 +1,146 @@
+{
+	"textures": [
+		{
+			"image": "scene5_2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1061,
+				"h": 501
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Nuage 1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 546,
+						"h": 154
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 546,
+						"h": 154
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 546,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Planète.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 511,
+						"h": 499
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 511,
+						"h": 499
+					},
+					"frame": {
+						"x": 549,
+						"y": 1,
+						"w": 511,
+						"h": 499
+					}
+				},
+				{
+					"filename": "avion.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 454,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 454,
+						"h": 144
+					},
+					"frame": {
+						"x": 1,
+						"y": 157,
+						"w": 454,
+						"h": 144
+					}
+				},
+				{
+					"filename": "Nuage 2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 379,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 379,
+						"h": 118
+					},
+					"frame": {
+						"x": 1,
+						"y": 303,
+						"w": 379,
+						"h": 118
+					}
+				},
+				{
+					"filename": "star.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 18,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 18,
+						"h": 18
+					},
+					"frame": {
+						"x": 382,
+						"y": 303,
+						"w": 18,
+						"h": 18
+					}
+				},
+				{
+					"filename": "Nuage 3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 217,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 217,
+						"h": 63
+					},
+					"frame": {
+						"x": 1,
+						"y": 423,
+						"w": 217,
+						"h": 63
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:883b8b51adb2ec45509b61a69429969c:5d5dcded74454ed086154b72a413b921:e729db8fc85bc019974918bb1fb378f6$"
+	}
+}

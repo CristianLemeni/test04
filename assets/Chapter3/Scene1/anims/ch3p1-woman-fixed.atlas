@@ -1,0 +1,27 @@
+
+ch3p1-woman-fixed.png
+size: 290,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Plan_01_Femme/Femme_Bras
+  rotate: true
+  xy: 2, 79
+  size: 62, 271
+  orig: 62, 271
+  offset: 0, 0
+  index: -1
+Plan_01_Femme/Femme_corps
+  rotate: true
+  xy: 2, 4
+  size: 73, 214
+  orig: 73, 214
+  offset: 0, 0
+  index: -1
+Plan_01_Femme/Femme_tete
+  rotate: false
+  xy: 218, 2
+  size: 70, 75
+  orig: 70, 76
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,20 @@
+
+ch3p7-migrant-left1-fixed.png
+size: 803,365
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Plan_07_Migrants_1er plan_Gauche/Migrant_gauche_Corps
+  rotate: false
+  xy: 2, 2
+  size: 557, 361
+  orig: 557, 504
+  offset: 0, 0
+  index: -1
+Plan_07_Migrants_1er plan_Gauche/Migrant_gauche_tete
+  rotate: false
+  xy: 561, 113
+  size: 240, 250
+  orig: 240, 250
+  offset: 0, 0
+  index: -1

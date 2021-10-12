@@ -1,0 +1,20 @@
+
+ch1p6-character.png
+size: 816,299
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Plan_06_Attente/Perso_Corps
+  rotate: true
+  xy: 2, 2
+  size: 295, 703
+  orig: 295, 703
+  offset: 0, 0
+  index: -1
+Plan_06_Attente/Perso_Tete
+  rotate: false
+  xy: 707, 172
+  size: 107, 125
+  orig: 107, 125
+  offset: 0, 0
+  index: -1

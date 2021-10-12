@@ -1,0 +1,314 @@
+{
+	"textures": [
+		{
+			"image": "Scene1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2003,
+				"h": 661
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "trees.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 2001,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 2001,
+						"h": 200
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 2001,
+						"h": 200
+					}
+				},
+				{
+					"filename": "protesters.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 803,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 803,
+						"h": 457
+					},
+					"frame": {
+						"x": 1,
+						"y": 203,
+						"w": 803,
+						"h": 457
+					}
+				},
+				{
+					"filename": "persMiddle.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 477,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 119,
+						"y": 0,
+						"w": 84,
+						"h": 337
+					},
+					"frame": {
+						"x": 806,
+						"y": 203,
+						"w": 84,
+						"h": 337
+					}
+				},
+				{
+					"filename": "cloud2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 250,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 250,
+						"h": 67
+					},
+					"frame": {
+						"x": 806,
+						"y": 542,
+						"w": 250,
+						"h": 67
+					}
+				},
+				{
+					"filename": "bystander1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 326
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 326
+					},
+					"frame": {
+						"x": 892,
+						"y": 203,
+						"w": 130,
+						"h": 326
+					}
+				},
+				{
+					"filename": "bystander2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 153,
+						"h": 313
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 153,
+						"h": 313
+					},
+					"frame": {
+						"x": 1024,
+						"y": 203,
+						"w": 153,
+						"h": 313
+					}
+				},
+				{
+					"filename": "birds.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 477,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 401,
+						"y": 298,
+						"w": 26,
+						"h": 21
+					},
+					"frame": {
+						"x": 1024,
+						"y": 518,
+						"w": 26,
+						"h": 21
+					}
+				},
+				{
+					"filename": "tank.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 319,
+						"h": 133
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 319,
+						"h": 133
+					},
+					"frame": {
+						"x": 1058,
+						"y": 518,
+						"w": 319,
+						"h": 133
+					}
+				},
+				{
+					"filename": "persLeft.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 477,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 56,
+						"w": 99,
+						"h": 276
+					},
+					"frame": {
+						"x": 1179,
+						"y": 203,
+						"w": 99,
+						"h": 276
+					}
+				},
+				{
+					"filename": "bystander4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 117,
+						"h": 273
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 117,
+						"h": 273
+					},
+					"frame": {
+						"x": 1280,
+						"y": 203,
+						"w": 117,
+						"h": 273
+					}
+				},
+				{
+					"filename": "cloud1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 534,
+						"h": 153
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 534,
+						"h": 153
+					},
+					"frame": {
+						"x": 1379,
+						"y": 478,
+						"w": 534,
+						"h": 153
+					}
+				},
+				{
+					"filename": "bystander3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 179,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 179,
+						"h": 265
+					},
+					"frame": {
+						"x": 1399,
+						"y": 203,
+						"w": 179,
+						"h": 265
+					}
+				},
+				{
+					"filename": "persRight.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 477,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 305,
+						"y": 82,
+						"w": 77,
+						"h": 255
+					},
+					"frame": {
+						"x": 1915,
+						"y": 203,
+						"w": 77,
+						"h": 255
+					}
+				},
+				{
+					"filename": "sun.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 237,
+						"h": 236
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 237,
+						"h": 236
+					},
+					"frame": {
+						"x": 1580,
+						"y": 203,
+						"w": 237,
+						"h": 236
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:13c20f7b3b4ca9ecf6ee1cc0b741ed95:e7690a62e4e4ee14e3b66137f86d602d:5e5336dc85d3e10e04eae73a3cf4b0a7$"
+	}
+}

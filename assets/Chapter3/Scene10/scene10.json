@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "scene10.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 241,
+				"h": 378
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "earth.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 239,
+						"h": 233
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 239,
+						"h": 233
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 239,
+						"h": 233
+					}
+				},
+				{
+					"filename": "boat-small.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 141
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 141
+					},
+					"frame": {
+						"x": 1,
+						"y": 236,
+						"w": 178,
+						"h": 141
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:bbd0e6f5f8524f4901fd61279f51e598:c9e7a58f8d5787f9ecb2e02faac6fa99:fa7c87c9e71c836dd203abdad3165bb7$"
+	}
+}

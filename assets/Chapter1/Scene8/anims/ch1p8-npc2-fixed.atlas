@@ -1,0 +1,27 @@
+
+ch1p8-npc2-fixed.png
+size: 933,461
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Perso_02/Perso_02_Bras_feuille
+  rotate: true
+  xy: 687, 216
+  size: 243, 244
+  orig: 243, 244
+  offset: 0, 0
+  index: -1
+Perso_02/Perso_02_Corps
+  rotate: true
+  xy: 2, 3
+  size: 456, 683
+  orig: 456, 683
+  offset: 0, 0
+  index: -1
+Perso_02/Perso_02_Tete
+  rotate: true
+  xy: 687, 2
+  size: 212, 229
+  orig: 212, 229
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "scene9.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 672,
+				"h": 1586
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Papier copie.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 644,
+						"h": 831
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 644,
+						"h": 831
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 644,
+						"h": 831
+					}
+				},
+				{
+					"filename": "Main.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 414,
+						"h": 751
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 414,
+						"h": 751
+					},
+					"frame": {
+						"x": 1,
+						"y": 834,
+						"w": 414,
+						"h": 751
+					}
+				},
+				{
+					"filename": "Pouce.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 254,
+						"h": 507
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 254,
+						"h": 507
+					},
+					"frame": {
+						"x": 417,
+						"y": 834,
+						"w": 254,
+						"h": 507
+					}
+				},
+				{
+					"filename": "bkTile.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 184,
+						"y": 103,
+						"w": 30,
+						"h": 26
+					},
+					"frame": {
+						"x": 417,
+						"y": 1343,
+						"w": 30,
+						"h": 26
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b3523020a055697cab9ac63dfd88d73c:ef0fb0db239fdfe454c486f08e2f551a:52df9e2a825f9bd642863bcb2c26ecde$"
+	}
+}

@@ -1,0 +1,27 @@
+
+Plan_01_Attente_01_Mec_Droite.png
+size: 945,227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Plan-01_Attente_01_Mec_Droite/Mec_droite_Corps
+  rotate: true
+  xy: 2, 2
+  size: 223, 557
+  orig: 223, 557
+  offset: 0, 0
+  index: -1
+Plan-01_Attente_01_Mec_Droite/Mec_droite_Main
+  rotate: false
+  xy: 561, 56
+  size: 244, 169
+  orig: 244, 169
+  offset: 0, 0
+  index: -1
+Plan-01_Attente_01_Mec_Droite/Mec_droite_Tete
+  rotate: false
+  xy: 807, 27
+  size: 136, 198
+  orig: 136, 198
+  offset: 0, 0
+  index: -1

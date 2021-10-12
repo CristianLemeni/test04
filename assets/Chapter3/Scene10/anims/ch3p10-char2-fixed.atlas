@@ -1,0 +1,27 @@
+
+ch3p10-char2-fixed.png
+size: 434,431
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Plan_10_Perso_02/Perso_02_Corps
+  rotate: true
+  xy: 2, 2
+  size: 255, 408
+  orig: 255, 408
+  offset: 0, 0
+  index: -1
+Plan_10_Perso_02/Perso_02_Jambes
+  rotate: true
+  xy: 2, 274
+  size: 155, 194
+  orig: 156, 194
+  offset: 1, 0
+  index: -1
+Plan_10_Perso_02/Perso_02_Tete
+  rotate: true
+  xy: 198, 259
+  size: 170, 234
+  orig: 170, 234
+  offset: 0, 0
+  index: -1

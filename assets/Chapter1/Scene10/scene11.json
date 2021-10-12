@@ -1,0 +1,167 @@
+{
+	"textures": [
+		{
+			"image": "scene11.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1927,
+				"h": 1839
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sol.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1872,
+						"h": 379
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1872,
+						"h": 379
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1872,
+						"h": 379
+					}
+				},
+				{
+					"filename": "Personnage.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 277,
+						"h": 1056
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 277,
+						"h": 1056
+					},
+					"frame": {
+						"x": 1,
+						"y": 382,
+						"w": 277,
+						"h": 1056
+					}
+				},
+				{
+					"filename": "bulle.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 521,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 521,
+						"h": 368
+					},
+					"frame": {
+						"x": 1,
+						"y": 1440,
+						"w": 521,
+						"h": 368
+					}
+				},
+				{
+					"filename": "arbre.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1178,
+						"h": 849
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1178,
+						"h": 849
+					},
+					"frame": {
+						"x": 280,
+						"y": 382,
+						"w": 1178,
+						"h": 849
+					}
+				},
+				{
+					"filename": "arbre (2).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 311,
+						"h": 605
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 311,
+						"h": 605
+					},
+					"frame": {
+						"x": 524,
+						"y": 1233,
+						"w": 311,
+						"h": 605
+					}
+				},
+				{
+					"filename": "arbre (1).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 466,
+						"h": 793
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 466,
+						"h": 793
+					},
+					"frame": {
+						"x": 1460,
+						"y": 382,
+						"w": 466,
+						"h": 793
+					}
+				},
+				{
+					"filename": "arbre (3).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 311,
+						"h": 627
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 311,
+						"h": 627
+					},
+					"frame": {
+						"x": 1460,
+						"y": 1177,
+						"w": 311,
+						"h": 627
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:6f05094eecb54f23ff187451e37eaa6d:8ee851054a2b24a46ec34ce1a4eec2a3:780821b0ffcea40d8c67e0cbca245615$"
+	}
+}
